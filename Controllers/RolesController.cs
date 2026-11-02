@@ -8,7 +8,7 @@ namespace CampusEvents.Api.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-//[Authorize(Roles = "ADMIN")]
+[Authorize(Roles = "ADMIN")]
 public class RolesController : ControllerBase
 {
     private readonly RoleManager<IdentityRole> _roleManager;

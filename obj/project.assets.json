@@ -3631,11 +3631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sohem\\Desktop\\ACSD\\WeekOne\\Backend Events API\\CampusEvents.Api\\CampusEvents.Api.csproj",
+      "projectUniqueName": "C:\\Users\\sohem\\OneDrive\\Documents\\ACSD\\BACKEND\\Backend Events API\\CampusEvents.Api\\CampusEvents.Api.csproj",
       "projectName": "CampusEvents.Api",
-      "projectPath": "C:\\Users\\sohem\\Desktop\\ACSD\\WeekOne\\Backend Events API\\CampusEvents.Api\\CampusEvents.Api.csproj",
+      "projectPath": "C:\\Users\\sohem\\OneDrive\\Documents\\ACSD\\BACKEND\\Backend Events API\\CampusEvents.Api\\CampusEvents.Api.csproj",
       "packagesPath": "C:\\Users\\sohem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sohem\\Desktop\\ACSD\\WeekOne\\Backend Events API\\CampusEvents.Api\\obj\\",
+      "outputPath": "C:\\Users\\sohem\\OneDrive\\Documents\\ACSD\\BACKEND\\Backend Events API\\CampusEvents.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
